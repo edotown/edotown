@@ -1,0 +1,5 @@
+#mhv { font-size:1.0em; line-height:normal; }
+#mhv * { font-size:inherit; line-height:inherit; }
+img { max-width:100%; }
+@media (max-width:320px) { #mhv * { word-break:break-all; } }
+@media (max-width:900px) { .mh-flashgax { display:none; } }
